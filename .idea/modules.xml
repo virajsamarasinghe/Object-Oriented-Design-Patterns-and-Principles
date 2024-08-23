@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" filepath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Object-Oriented-Design-Patterns-and-Principles.iml" filepath="$PROJECT_DIR$/.idea/Object-Oriented-Design-Patterns-and-Principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethodDesignPattern/TemplateMethodDesignPattern.iml" filepath="$PROJECT_DIR$/TemplateMethodDesignPattern/TemplateMethodDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter patten/adapter patten.iml" filepath="$PROJECT_DIR$/adapter patten/adapter patten.iml" />
+    </modules>
+  </component>
+</project>
